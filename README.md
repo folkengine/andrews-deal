@@ -16,7 +16,8 @@ After checking out the code, just create an empty file, "Make.dep" in the top di
 You will need 'g++' and 'tcl-dev' packages installed.
 
 ```
-$> sudo apt-get install tcl8.5-dev $ sudo apt-get install g++
+$> sudo apt-get install tcl8.5-dev 
+$> sudo apt-get install g++
 ```
 
 Edit the Makefile so that it includes Make.ubuntu file.
